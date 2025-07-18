@@ -2,8 +2,6 @@
 
 This TypeScript script demonstrates how to use `execa` to execute commands in outside directories and handle exit codes properly.
 
-
-
 ## Installation
 
 ```bash
